@@ -14,8 +14,8 @@ public class AmazingHelloWorld {
         this.world = world;
     }
 
-    public String sayHello() {
-        String salute = hello.sayHello() + world.getWorld();
+    public String say() {
+        String salute = hello.getHello() + world.getWorld();
 
         return salute;
     }

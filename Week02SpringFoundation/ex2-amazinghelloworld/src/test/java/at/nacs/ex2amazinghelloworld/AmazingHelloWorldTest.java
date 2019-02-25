@@ -15,7 +15,7 @@ class AmazingHelloWorldTest {
 
     @Test
     void say() {
-        String result = amazingHelloWorld.sayHello();
+        String result = amazingHelloWorld.say();
 
         String expected = "Hello World";
         Assertions.assertEquals(expected,result);

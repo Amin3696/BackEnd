@@ -13,7 +13,7 @@ class HelloTest {
 
     @Test
     void sayHello() {
-        String actual = hello.sayHello();
+        String actual = hello.getHello();
         String expected = "Hello";
         Assertions.assertEquals(expected, actual);
 

@@ -14,7 +14,7 @@ class LegendaryCompassTest {
     @Test
     void findCoursedCoin() {
         String actual = legendaryCompass.findCoursedCoin();
-        String expected = "I found the CursedCoin!";
+        String expected = "CursedCoin";
 
         Assertions.assertEquals(expected, actual);
     }

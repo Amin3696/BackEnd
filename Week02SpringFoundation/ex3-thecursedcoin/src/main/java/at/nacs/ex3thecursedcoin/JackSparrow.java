@@ -1,18 +1,18 @@
 package at.nacs.ex3thecursedcoin;
 
+import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 
 @Component
+@RequiredArgsConstructor
 public class JackSparrow {
 
-    private LegendaryCompass legendaryCompass;
+    private  final LegendaryCompass legendaryCompass;
 
-    public JackSparrow(LegendaryCompass legendaryCompass) {
-        this.legendaryCompass = legendaryCompass;
-    }
+
 
     public String findCoin() {
-        return legendaryCompass.findCoursedCoin();
+        return "I found the " + legendaryCompass.findCoursedCoin() +"!";
     }
 
 }
