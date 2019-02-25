@@ -14,7 +14,7 @@ class WorldTest {
     @Test
     void addWorld() {
         String actual = world.getWorld();
-        String expected = "World";
+        String expected = " World";
 
         Assertions.assertEquals(expected, actual);
     }
