@@ -6,13 +6,14 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JackSparrowTest {
+class LegendaryCompassTest {
+
     @Autowired
-    JackSparrow jackSparrow;
+    LegendaryCompass legendaryCompass;
 
     @Test
-    void findCoin() {
-        String actual = jackSparrow.findCoin();
+    void findCoursedCoin() {
+        String actual = legendaryCompass.findCoursedCoin();
         String expected = "I found the CursedCoin!";
 
         Assertions.assertEquals(expected, actual);
