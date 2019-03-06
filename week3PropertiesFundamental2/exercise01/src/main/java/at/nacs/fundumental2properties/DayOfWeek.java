@@ -9,7 +9,8 @@ import java.util.List;
 @Component
 public class DayOfWeek {
 
-@Getter
+    @Getter
     @Value("${week.day}")
+
     private List<String> day;
 }

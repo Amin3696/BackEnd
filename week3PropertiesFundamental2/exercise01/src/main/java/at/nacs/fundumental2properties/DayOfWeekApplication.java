@@ -10,7 +10,7 @@ import java.util.List;
 public class DayOfWeekApplication {
 
     @Bean
-    ApplicationRunner application(DayOfWeek day){
+    ApplicationRunner application(DayOfWeek day) {
         return args -> {
             List<String> days = day.getDay();
             System.out.println(days);

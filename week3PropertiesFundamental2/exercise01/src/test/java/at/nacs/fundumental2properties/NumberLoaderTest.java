@@ -1,11 +1,11 @@
 package at.nacs.fundumental2properties;
 
-import com.sun.jdi.IntegerValue;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 @SpringBootTest
 class NumberLoaderTest {
 
@@ -16,6 +16,6 @@ class NumberLoaderTest {
     void getValue() {
         Integer actual = numberLoader.getValue();
 
-        assertEquals(Integer.valueOf(369),actual);
+        assertEquals(Integer.valueOf(369), actual);
     }
 }
