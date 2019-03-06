@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30dbb06b-e5e8-4dad-8e41-ff33d743ec61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/exercise01/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise01/src/test/java/at/nacs/fundumental2properties/BookShopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week02SpringFoundation/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/Cigar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week02SpringFoundation/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/Cigar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week02SpringFoundation/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/EnglishGentleman.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week02SpringFoundation/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/EnglishGentleman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week02SpringFoundation/ex4-theenglishgentleman/src/test/java/at/nacs/ex4theenglishgentleman/EnglishGentlemanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Week02SpringFoundation/ex4-theenglishgentleman/src/test/java/at/nacs/ex4theenglishgentleman/EnglishGentlemanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/BookShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/BookShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/DayOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/DayOfWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/DayOfWeekApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/DayOfWeekApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/Fundumental2propertiesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/Fundumental2propertiesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/NumberLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/NumberLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/at/nacs/fundumental2properties/BookShopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/at/nacs/fundumental2properties/DayOfWeekTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/src/test/java/at/nacs/fundumental2properties/DayOfWeekTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/at/nacs/fundumental2properties/Fundumental2propertiesApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/src/test/java/at/nacs/fundumental2properties/Fundumental2propertiesApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/at/nacs/fundumental2properties/NumberLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/src/test/java/at/nacs/fundumental2properties/NumberLoaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/at/nacs/fundumental2properties/WordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise01/src/test/java/at/nacs/fundumental2properties/WordTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/ex2-amazinghelloworld/src/main/java/at/nacs/ex2amazinghelloworld/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/ex2-amazinghelloworld/src/main/java/at/nacs/ex2amazinghelloworld/World.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/ex3-thecursedcoin/src/main/java/at/nacs/ex3thecursedcoin/CursedCoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/ex3-thecursedcoin/src/main/java/at/nacs/ex3thecursedcoin/CursedCoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/Lighter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/Lighter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/Monocle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/ex4-theenglishgentleman/src/main/java/at/nacs/ex4theenglishgentleman/Monocle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/main/java/at/nacs/fundamentals/amazinghelloworld/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/main/java/at/nacs/fundamentals/amazinghelloworld/World.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/main/java/at/nacs/fundamentals/calculator/controller/operation/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/main/java/at/nacs/fundamentals/calculator/controller/operation/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/main/java/at/nacs/fundamentals/englishgentleman/Lighter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/main/java/at/nacs/fundamentals/englishgentleman/Lighter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/main/java/at/nacs/fundamentals/englishgentleman/Monocle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/main/java/at/nacs/fundamentals/englishgentleman/Monocle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/main/java/at/nacs/fundamentals/lecture/configuration/NbhConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/main/java/at/nacs/fundamentals/lecture/configuration/NbhConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/main/java/at/nacs/fundamentals/lecture/itcompany/BackendFrontendCombo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/main/java/at/nacs/fundamentals/lecture/itcompany/BackendFrontendCombo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/main/java/at/nacs/fundamentals/thecursedcoin/CursedCoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/main/java/at/nacs/fundamentals/thecursedcoin/CursedCoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/test/java/at/nacs/fundamentals/FundamentalsApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/test/java/at/nacs/fundamentals/FundamentalsApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/test/java/at/nacs/fundamentals/lecture/configuration/NBHTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/fundamentals/src/test/java/at/nacs/fundamentals/lecture/configuration/NBHTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/fundamentals2-yml/src/main/java/at/nacs/fundamentals2/Cashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/fundamentals2-yml/src/main/java/at/nacs/fundamentals2/Cashier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/fundamentals2-yml/src/main/java/at/nacs/fundamentals2/DexterExpert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/fundamentals2-yml/src/main/java/at/nacs/fundamentals2/DexterExpert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/fundamentals2-yml/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/fundamentals2-yml/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/fundamentals2-yml/src/test/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/fundamentals2-yml/src/test/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/fundamentals2/src/main/java/at/nacs/fundamentals2/Cashier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/fundamentals2/src/main/java/at/nacs/fundamentals2/Cashier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/fundamentals2/src/main/java/at/nacs/fundamentals2/DexterExpert.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/fundamentals2/src/main/java/at/nacs/fundamentals2/DexterExpert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/fundamentals2/src/main/java/at/nacs/fundamentals2/WaterBottleLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/fundamentals2/src/main/java/at/nacs/fundamentals2/WaterBottleLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/lombok/src/coffeecan/controller/experiment/refill/DifferentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/lombok/src/coffeecan/controller/experiment/refill/DifferentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/lombok/src/coffeecan/controller/experiment/refill/EqualsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/lombok/src/coffeecan/controller/experiment/refill/EqualsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/lombok/src/coffeecan/controller/statistic/StatisticsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/lombok/src/coffeecan/controller/statistic/StatisticsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/lombok/src/fruitshop/QuickFruitShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/lombok/src/fruitshop/QuickFruitShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../i4-backend/lombok/src/pairprogramming/model/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../i4-backend/lombok/src/pairprogramming/model/Pair.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../../i4-backend/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2080430996">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="64" />
+          <entry key="properties" value="7" />
+          <entry key="xml" value="4" />
+          <entry key="yml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="64" />
+          <entry key="Properties" value="7" />
+          <entry key="XML" value="4" />
+          <entry key="YAML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="5" />
+          <entry key="java" value="2418" />
+          <entry key="properties" value="345" />
+          <entry key="xml" value="7" />
+          <entry key="yml" value="122" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2418" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Properties" value="345" />
+          <entry key="XML" value="7" />
+          <entry key="YAML" value="122" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise01/src/test/java/at/nacs/fundumental2properties/BallerinaLoaderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercise01/src/test/java/at/nacs/fundumental2properties/BookShopTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/Word.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/NumberLoader.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/Book1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testResources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/Book.java" />
+        <option value="$PROJECT_DIR$/src/test/java/at/nacs/fundumental2properties/SaunaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/Sauna.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/DayOfWeekApplication.java" />
+        <option value="$PROJECT_DIR$/src/test/java/at/nacs/fundumental2properties/DayOfWeekTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/at/nacs/fundumental2properties/NumberLoaderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/at/nacs/fundumental2properties/WordTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/../../i4-backend/fundamentals2/src/main/java/at/nacs/fundamentals2/WaterBottleLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/Ballerina.java" />
+        <option value="$PROJECT_DIR$/src/test/java/at/nacs/fundumental2properties/BallerinaLoaderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/BallerinaLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/BookShop.java" />
+        <option value="$PROJECT_DIR$/src/test/java/at/nacs/fundumental2properties/BookShopTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/DayOfWeek.java" />
+        <option value="$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/BallerinaLoader.java" />
+        <option value="$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/BookShop.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="661" />
+    <option name="height" value="737" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fundumental2properties" type="b2602c69:ProjectViewProjectNode" />
+              <item name="i4-backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundumental2properties" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3PropertiesFundamental2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundumental2properties" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3PropertiesFundamental2" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundumental2properties" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3PropertiesFundamental2" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundumental2properties" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3PropertiesFundamental2" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundumental2properties" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3PropertiesFundamental2" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fundumental2properties" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week3PropertiesFundamental2" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fundumental2properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551873965008" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../i4-backend" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="at.nacs.fundumental2properties" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exercise01" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exercise02" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java/testResources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BookShopTest.getBooks">
+    <configuration name="BallerinaLoaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week3PropertiesFundamental2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.fundumental2properties.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.fundumental2properties" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.fundumental2properties.BallerinaLoaderTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BallerinaLoaderTest.testIndivdualDancer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week3PropertiesFundamental2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.fundumental2properties.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.fundumental2properties" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.fundumental2properties.BallerinaLoaderTest" />
+      <option name="METHOD_NAME" value="testIndivdualDancer(int,java.lang.String,double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BallerinaLoaderTest.testNumberOfBallerina" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week3PropertiesFundamental2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.fundumental2properties.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.fundumental2properties" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.fundumental2properties.BallerinaLoaderTest" />
+      <option name="METHOD_NAME" value="testNumberOfBallerina" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookShopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week3PropertiesFundamental2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.fundumental2properties.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.fundumental2properties" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.fundumental2properties.BookShopTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookShopTest.getBooks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week3PropertiesFundamental2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.nacs.fundumental2properties.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.nacs.fundumental2properties" />
+      <option name="MAIN_CLASS_NAME" value="at.nacs.fundumental2properties.BookShopTest" />
+      <option name="METHOD_NAME" value="getBooks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fundumental2propertiesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="week3PropertiesFundamental2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="at.nacs.fundumental2properties.Fundumental2propertiesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Fundumental2propertiesApplication" />
+      <item itemvalue="JUnit.BallerinaLoaderTest.testNumberOfBallerina" />
+      <item itemvalue="JUnit.BallerinaLoaderTest" />
+      <item itemvalue="JUnit.BallerinaLoaderTest.testIndivdualDancer" />
+      <item itemvalue="JUnit.BookShopTest" />
+      <item itemvalue="JUnit.BookShopTest.getBooks" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookShopTest.getBooks" />
+        <item itemvalue="JUnit.BallerinaLoaderTest.testNumberOfBallerina" />
+        <item itemvalue="JUnit.BookShopTest" />
+        <item itemvalue="JUnit.BallerinaLoaderTest" />
+        <item itemvalue="JUnit.BallerinaLoaderTest.testIndivdualDancer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30dbb06b-e5e8-4dad-8e41-ff33d743ec61" name="Default Changelist" comment="" />
+      <created>1551779612458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551779612458</updated>
+      <workItem from="1551779617474" duration="17710000" />
+      <workItem from="1551859015188" duration="13484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BallerinaLoaderTest - 2019.03.06 at 10h 47m 06s.xml">
+      <configuration name="BallerinaLoaderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BallerinaLoaderTest - 2019.03.06 at 10h 47m 48s.xml">
+      <configuration name="BallerinaLoaderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BallerinaLoaderTest_testNumberOfBallerina - 2019.03.06 at 11h 00m 56s.xml">
+      <configuration name="BallerinaLoaderTest.testNumberOfBallerina" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BallerinaLoaderTest_testIndivdualDancer - 2019.03.06 at 11h 07m 09s.xml">
+      <configuration name="BallerinaLoaderTest.testIndivdualDancer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BallerinaLoaderTest - 2019.03.06 at 11h 40m 18s.xml">
+      <configuration name="BallerinaLoaderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BallerinaLoaderTest - 2019.03.06 at 11h 42m 05s.xml">
+      <configuration name="BallerinaLoaderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BallerinaLoaderTest_testNumberOfBallerina - 2019.03.06 at 11h 44m 38s.xml">
+      <configuration name="BallerinaLoaderTest.testNumberOfBallerina" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookShopTest - 2019.03.06 at 11h 49m 31s.xml">
+      <configuration name="BookShopTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BallerinaLoaderTest_testNumberOfBallerina - 2019.03.06 at 12h 24m 16s.xml">
+      <configuration name="BallerinaLoaderTest.testNumberOfBallerina" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BallerinaLoaderTest_testNumberOfBallerina - 2019.03.06 at 13h 00m 51s.xml">
+      <configuration name="BallerinaLoaderTest.testNumberOfBallerina" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31194000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25189108" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47938144" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3298969" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3298969" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/NumberLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#268#284#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/Word.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#228#242#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/Fundumental2propertiesApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testResources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/../../i4-backend/fundamentals2/src/main/java/at/nacs/fundamentals2/WeeklyScheduleConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/nacs/fundumental2properties/Book.java" />
+    <entry file="file://$PROJECT_DIR$/../../i4-backend/fundamentals2-yml/src/test/java/at/nacs/fundamentals2/TvShowEventTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../i4-backend/fundamentals2-yml/src/main/java/at/nacs/fundamentals2/WaterBottle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../i4-backend/fundamentals2-yml/src/test/java/at/nacs/fundamentals2/WaterBottleLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../i4-backend/fundamentals2-yml/src/test/java/at/nacs/fundamentals2/CashierTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/test/java/at/nacs/fundumental2properties/SaunaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/DayOfWeekApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/test/java/at/nacs/fundumental2properties/NumberLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/test/java/at/nacs/fundumental2properties/WordTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/test/java/at/nacs/fundumental2properties/Fundumental2propertiesApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/test/java/at/nacs/fundumental2properties/DayOfWeekTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../i4-backend/fundamentals2/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../i4-backend/fundamentals2/src/main/java/at/nacs/fundamentals2/WaterBottleLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../i4-backend/fundamentals2/src/main/java/at/nacs/fundamentals2/WaterBottle.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../i4-backend/fundamentals2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../i4-backend/fundamentals2/src/test/java/at/nacs/fundamentals2/WaterBottleLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="31" lean-forward="true" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../i4-backend/fundamentals2-yml/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/main/resources/applicationYml.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/Sauna.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/DayOfWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/Ballerina.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/BookShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/main/java/at/nacs/fundumental2properties/BallerinaLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise02/src/main/java/at/nacs/fundumental2properties/Word.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise02/src/test/java/at/nacs/fundumental2properties/BallerinaLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-477">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/test/java/at/nacs/fundumental2properties/BallerinaLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise01/src/test/java/at/nacs/fundumental2properties/BookShopTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

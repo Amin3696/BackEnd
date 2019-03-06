@@ -1,0 +1,23 @@
+amin:
+  word: fantastic
+word:
+  number: 369
+week:
+  day: Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+booklist:
+  book:
+  - HarryPotter: 3
+  - TheFoundation: 2
+  - TheLordOfTheRings: 4
+leasure:
+  sauna:
+    availableSeat: 10
+    temperature: 55
+dancer:
+  ballerina:
+  - name: shamissa
+    quality: 5
+  - name: mahnaz
+    quality: 4.3
+  - name: farnaz
+    quality: 4.5
