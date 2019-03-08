@@ -23,7 +23,7 @@ class HandshakeLoaderTest {
     void testSizeOfMoves() {
         Map<Integer, String> actualMoves = handshakeLoader.getMove();
         int size = actualMoves.size();
-        Assertions.assertEquals(5, size);
+        Assertions.assertEquals(2, size);
     }
 
     @ParameterizedTest
