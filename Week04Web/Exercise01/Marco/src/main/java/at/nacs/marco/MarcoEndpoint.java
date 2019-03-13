@@ -10,11 +10,12 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/say")
 @RequiredArgsConstructor
 public class MarcoEndpoint {
-    private final PoloClient poloClient;
+
+    private final Postman postman;
 
     @GetMapping("/{message}")
     String say(@PathVariable String message) {
-        return poloClient.post(message);
+        return postman.post(message);
     }
 
 }

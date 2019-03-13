@@ -14,8 +14,9 @@ public class PoloClient {
     @Value("${message.server.url}")
     private String url;
 
-    public String post(String message) {
+
+    public String  post(String message) {
 
         return restTemplate.postForObject(url, message, String.class);
-    }
-}
+        }
+        }
