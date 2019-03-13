@@ -7,7 +7,7 @@ import org.springframework.web.client.RestTemplate;
 
 @RestController
 @RequiredArgsConstructor
-public class PoloClient {
+public class Postman {
 
     private final RestTemplate restTemplate;
 
