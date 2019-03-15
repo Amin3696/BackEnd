@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Backend.iml" filepath="$PROJECT_DIR$/Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week04-2/JackSparrow/jacksparrow.iml" filepath="$PROJECT_DIR$/Week04-2/JackSparrow/jacksparrow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week04-2/Marathon/marathon.iml" filepath="$PROJECT_DIR$/Week04-2/Marathon/marathon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week04-2/ex01MarkoPolo/marcopolo.iml" filepath="$PROJECT_DIR$/Week04-2/ex01MarkoPolo/marcopolo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week04-2/Reflection/morsecode.iml" filepath="$PROJECT_DIR$/Week04-2/Reflection/morsecode.iml" />
     </modules>
   </component>
 </project>

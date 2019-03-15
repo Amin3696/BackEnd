@@ -1,0 +1,6 @@
+server:
+  port: 9001
+
+  message:
+    server:
+      url: http://localhost:9002/deadmanschest
