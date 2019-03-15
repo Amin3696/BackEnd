@@ -3,13 +3,12 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/Exercise02/MarathonServer/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise03/Jacksparrow/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise03/Tiadalma/pom.xml" />
-        <option value="$PROJECT_DIR$/Exercise03/Duchman/pom.xml" />
+        <option value="$PROJECT_DIR$/Reflection/Morse/pom.xml" />
         <option value="$PROJECT_DIR$/Exercise01/Polo/pom.xml" />
         <option value="$PROJECT_DIR$/Exercise01/Marco/pom.xml" />
         <option value="$PROJECT_DIR$/Exercise02/MarathonClient/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercise02/MarathonServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Reflection/Encoder/pom.xml" />
       </list>
     </option>
   </component>

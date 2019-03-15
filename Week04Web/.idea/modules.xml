@@ -3,13 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Week04Web.iml" filepath="$PROJECT_DIR$/Week04Web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercise03/Duchman/duchman.iml" filepath="$PROJECT_DIR$/Exercise03/Duchman/duchman.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercise03/Jacksparrow/jacksparrow.iml" filepath="$PROJECT_DIR$/Exercise03/Jacksparrow/jacksparrow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflection/Encoder/encode.iml" filepath="$PROJECT_DIR$/Reflection/Encoder/encode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercise02/MarathonClient/marathonclient.iml" filepath="$PROJECT_DIR$/Exercise02/MarathonClient/marathonclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercise02/MarathonServer/marathonserver.iml" filepath="$PROJECT_DIR$/Exercise02/MarathonServer/marathonserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercise01/Marco/marco.iml" filepath="$PROJECT_DIR$/Exercise01/Marco/marco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflection/Morse/morsecode.iml" filepath="$PROJECT_DIR$/Reflection/Morse/morsecode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercise01/Polo/polo.iml" filepath="$PROJECT_DIR$/Exercise01/Polo/polo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exercise03/Tiadalma/tiadalma.iml" filepath="$PROJECT_DIR$/Exercise03/Tiadalma/tiadalma.iml" />
     </modules>
   </component>
 </project>
