@@ -8,6 +8,7 @@ import java.util.UUID;
 
 @Service
 @RequiredArgsConstructor
+
 public class Admission {
 
     private final DiagnoseClient diagnoseClient;

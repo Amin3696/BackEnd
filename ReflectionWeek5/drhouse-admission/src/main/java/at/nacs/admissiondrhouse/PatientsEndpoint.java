@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/patients")
 @RequiredArgsConstructor
 
+
 public class PatientsEndpoint {
 
     private final Admission admission;
