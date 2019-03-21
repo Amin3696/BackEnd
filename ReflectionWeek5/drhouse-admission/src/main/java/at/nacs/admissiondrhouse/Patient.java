@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 import java.util.UUID;
 
 @Data
-@Builder
+@Builder  //to be able to build it in Test
 public class Patient {
 
     private String id;

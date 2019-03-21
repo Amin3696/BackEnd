@@ -1,3 +1,20 @@
 server:
   port: 9002
 
+  data:
+    seekness:
+      diagnoses:
+        headache: had a cold
+        Abdominal pain: infection
+        Skin rashes: atopic dermatitis
+        Constipation: low Liquied
+        Joint pain or muscle pain: arthritis
+
+
+
+
+
+
+
+
+
