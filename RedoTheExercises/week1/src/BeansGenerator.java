@@ -13,7 +13,7 @@ public class BeansGenerator {
         List<Boolean> randomBooleans = generateListOfRandomBooleans();
         List<Bean> whiteBeans = generateWhiteBeans(randomBooleans);
         List<Bean> blackBeans = generateBlackBeans(randomBooleans);
-        List<Bean> beans = addAllBeansToGetter(whiteBeans, blackBeans);
+        List<Bean> beans = addAllBeansTogether(whiteBeans, blackBeans);
         Collections.shuffle(beans);
         Queue<Bean> randomBeans = new LinkedList<>(beans);
         return randomBeans;
@@ -40,7 +40,7 @@ public class BeansGenerator {
                 .collect(Collectors.toList());
     }
 
-    private List<Bean> addAllBeansToGetter(List<Bean> whiteBeans, List<Bean> blackBeans) {
+    private List<Bean> addAllBeansTogether(List<Bean> whiteBeans, List<Bean> blackBeans) {
         List<Bean> beans = new ArrayList<>();
         for (Bean whiteBean : whiteBeans) {
             beans.add(whiteBean);
