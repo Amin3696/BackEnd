@@ -6,18 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jacksparrow" />
-        <module name="marathon" />
-        <module name="marcopolo" />
-        <module name="morsecode" />
+        <module name="diagnoses" />
+        <module name="todos" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="jacksparrow" target="11" />
-      <module name="marathon" target="11" />
-      <module name="marcopolo" target="11" />
-      <module name="morsecode" target="11" />
-      <module name="week4" target="11" />
+      <module name="diagnoses" target="11" />
+      <module name="todos" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

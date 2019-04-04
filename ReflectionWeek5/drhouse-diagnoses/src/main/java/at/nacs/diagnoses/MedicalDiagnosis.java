@@ -22,12 +22,15 @@ public class MedicalDiagnosis {
 
     public Patient checkUp(Patient patient) {
         String symptoms = patient.getSymptoms();
-        if (isDiagnosisFound(symptoms)) {
+        String result = diagnosis.getOrDefault(symptoms, "lupus");
+        patient.setDiagnosis(result);
+        return patient;
+       /* if (isDiagnosisFound(symptoms)) {
             Patient patientWithDiagnostick = assignDiagnosis(patient);
             return patientWithDiagnostick;
         }
         patient.setDiagnosis("lupus");
-        return patient;
+        return patient;*/
     }
 
     private boolean isDiagnosisFound(String symptoms) {
