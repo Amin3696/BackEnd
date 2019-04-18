@@ -1,0 +1,22 @@
+server:
+  port: 9001
+
+school:
+  students:
+
+  - first-name: Amin
+    last-name: Shahimian
+    id: 0
+  - first-name: Mahnaz
+    last-name: Bakhshiani
+    id: 1
+  - first-name: Shamissa
+    last-name: Shahimian
+    id: 2
+  - first-name: Mina
+    last-name: Shahimian
+    id: 3
+  - first-name: Farnaz
+    last-name: Bakhshiani
+    id: 4
+
