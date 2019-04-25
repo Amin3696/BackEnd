@@ -4,10 +4,9 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-import java.util.Optional;
 
 @RestController
-@RequestMapping("/toDoApi")
+@RequestMapping("/todos")
 @RequiredArgsConstructor
 public class ToDoEndpoint {
 
@@ -20,8 +19,7 @@ public class ToDoEndpoint {
 
     @GetMapping("/{id}")
     ToDo findWithId(@PathVariable String id) {
-        Optional<ToDo> oneTask = toDoManager.findOne(id);
-        return oneTask.get();
+        return toDoManager.findOne(id).orElse(null);
     }
 
     @PostMapping
@@ -30,9 +28,8 @@ public class ToDoEndpoint {
     }
 
     @PutMapping("/{id}/done")
-    Optional<ToDo> updateToDos(@PathVariable String id) {
-
-        return toDoManager.markAsDone(id);
+    ToDo updateToDos(@PathVariable String id) {
+        return toDoManager.markAsDone(id).orElse(null);
     }
 
     @DeleteMapping("/{id}")

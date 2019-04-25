@@ -1,0 +1,8 @@
+game:
+  moves:
+    - name: rock
+      defeat: scissors
+    - name: scissors
+      defeat: paper
+    - name: paper
+      defeat: rock
